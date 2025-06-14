@@ -1,0 +1,6 @@
+path: C:\Users\KARAN\Documents\ML Notebook\automatic_number_plate_recognition\dataset
+train: images/train
+val: images/val
+
+nc: 1
+names: ['license_plate']
